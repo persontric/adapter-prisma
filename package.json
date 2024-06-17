@@ -46,7 +46,7 @@
 		"@persontric/adapter-test": "workspace:*",
 		"@prisma/client": "^5.15.0",
 		"prisma": "^5.15.0",
-		"tsx": "^4.15.5"
+		"tsx": "^4.15.6"
 	},
 	"peerDependencies": {
 		"@prisma/client": "^5.15.0",
